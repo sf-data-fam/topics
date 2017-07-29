@@ -55,9 +55,13 @@ Purpose here is to stir up people's ideas( Mostly Machine Learning since that's 
 - Startup Success Prediction Model
 
 Datasets:
+
 https://github.com/hopelessoptimism/datasets
+
 http://rs.io/100-interesting-data-sets-for-statistics/
+
 Facebook: http://mypersonality.org/wiki/doku.php?id=download_databases
+
 kaggle.com
 
 
