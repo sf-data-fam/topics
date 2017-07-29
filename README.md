@@ -5,7 +5,7 @@ Before diving into different types of data projects, I'll go over the factors th
 Obvious, but find a project that aligns with your personal passions such as sports, tv shows, books, politics, entertainment, finance etc.
 
 ## 2. Career Relevant Skillset 
-After ensuring the project is something you're personally interested in, make sure the project aligns with a skillset that's relevant to the market. 
+After ensuring the project is something you're personally interested in, make sure the project aligns with a skillset that's relevant to the market or even directly to your job.
 
 For example, Support Vector Machines are being used less and less in industry. If SVM is the best algorithm to solve your problem, definitely use it. But be cognizant that the ML industry is shifting away from SVM and more towards Deep Learning/Neural Networks.
 
@@ -34,7 +34,7 @@ Examples of organizations doing this:
 https://www.sixthirty.org/
 
 http://www.deltanalytics.org/
-
+  
 
 Data Project Ideas:
 
