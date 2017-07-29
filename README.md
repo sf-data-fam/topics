@@ -14,7 +14,9 @@ Always keep a pulse on what skillsets are valuable on the market. This way, you 
 Good Links to keep pulse:
 
 datasciencecentral.com
+
 https://arxiv.org/list/stat.ML/recent
+
 datatau.com
 
 
@@ -28,8 +30,11 @@ Two, even if you don't get paid for it, companies love seeing projects that actu
 Three, helping others = fulfillment.
 
 Examples of organizations doing this:
+
 https://www.sixthirty.org/
+
 http://www.deltanalytics.org/
+
 
 Data Project Ideas:
 
